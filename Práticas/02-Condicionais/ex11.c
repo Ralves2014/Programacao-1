@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <math.h>
+int main(){
+
+    float x1, y1, x2, y2;
+    double d;
+
+    printf("Indique as coordenadas x e y: ");
+    scanf("%f %f", &x1, &y1);
+    printf("Indique as coordenadas x e y: ");
+    scanf("%f %f", &x2, &y2);
+
+    d=sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1));
+
+    printf("A distancia entre os 2 pontos e %lf.\n", d);
+        
+    return 0;
+       
+}
