@@ -2,7 +2,7 @@
 
 Neste repositório estão todos os conteúdos lecionados em aula, como também os exercicíos resolvidos.
 
-Trabalho: Othello 
+Trabalho: Othello (jogo de tabuleiro).
 
 ## Linha de comandos utilizados:
 
