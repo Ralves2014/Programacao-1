@@ -8,5 +8,7 @@ Trabalho: Othello
 gcc ex4.c -o ex4 -lm
 ./ex4
 
-ou gcc ex4.c -lm
+ou
+
+gcc ex4.c -lm
 ./a.out
