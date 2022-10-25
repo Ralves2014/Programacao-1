@@ -1,4 +1,4 @@
-# Programacao-1
+# Descrição Programacao-1
 
 Neste repositório estão todos os conteúdos lecionados em aula, como também os exercicíos resolvidos.
 
